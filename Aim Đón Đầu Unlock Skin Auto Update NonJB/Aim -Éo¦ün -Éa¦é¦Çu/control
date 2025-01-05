@@ -1,0 +1,11 @@
+Homepage: API KEY Menu AimBot Unlock Skin
+Depiction: API ModCheat
+Author: DES Mod
+Maintainer: DES Mod
+Name: unlock Skin - Aimbot by Mod Cheat
+Package: Mod
+Depends: firmware (>= 8.0)
+Section: Utilities
+Architecture: iphoneos-arm
+Description: DES Modcheat
+DEV: Mod
